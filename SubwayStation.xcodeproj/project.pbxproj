@@ -17,6 +17,7 @@
 		1E41392D27BF19B4008AEC00 /* StationDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E41392C27BF19B4008AEC00 /* StationDetailViewController.swift */; };
 		1E41392F27BF1BF6008AEC00 /* StationDetailCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E41392E27BF1BF6008AEC00 /* StationDetailCollectionViewCell.swift */; };
 		1E41393127BF2531008AEC00 /* StationResponseModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E41393027BF2531008AEC00 /* StationResponseModel.swift */; };
+		1E41393327BF2FE6008AEC00 /* StationArrivalDataResponseModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E41393227BF2FE6008AEC00 /* StationArrivalDataResponseModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		1E41392C27BF19B4008AEC00 /* StationDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StationDetailViewController.swift; sourceTree = "<group>"; };
 		1E41392E27BF1BF6008AEC00 /* StationDetailCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StationDetailCollectionViewCell.swift; sourceTree = "<group>"; };
 		1E41393027BF2531008AEC00 /* StationResponseModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StationResponseModel.swift; sourceTree = "<group>"; };
+		1E41393227BF2FE6008AEC00 /* StationArrivalDataResponseModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StationArrivalDataResponseModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				1E41391C27BF100A008AEC00 /* LaunchScreen.storyboard */,
 				1E41391F27BF100A008AEC00 /* Info.plist */,
 				1E41393027BF2531008AEC00 /* StationResponseModel.swift */,
+				1E41393227BF2FE6008AEC00 /* StationArrivalDataResponseModel.swift */,
 			);
 			path = SubwayStation;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 				1E41392D27BF19B4008AEC00 /* StationDetailViewController.swift in Sources */,
 				1E41393127BF2531008AEC00 /* StationResponseModel.swift in Sources */,
 				1E41391627BF1009008AEC00 /* StationSearchViewController.swift in Sources */,
+				1E41393327BF2FE6008AEC00 /* StationArrivalDataResponseModel.swift in Sources */,
 				1E41391227BF1009008AEC00 /* AppDelegate.swift in Sources */,
 				1E41392F27BF1BF6008AEC00 /* StationDetailCollectionViewCell.swift in Sources */,
 				1E41391427BF1009008AEC00 /* SceneDelegate.swift in Sources */,
